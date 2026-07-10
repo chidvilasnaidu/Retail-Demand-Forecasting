@@ -154,10 +154,5 @@ To reproduce the project:
 
 This repository has been organized to provide a clear separation between implementation, analysis, and documentation.
 
-For the best review experience, it is recommended to explore the project in the following order:
+For the best review experience, it is recommended to view  **Retail-Demand-Forecasting.ipynb**, **Model Comparison Report.ipynb** side by side for better understanding 
 
-1. **Retail-Demand-Forecasting.ipynb**
-2. **Model Comparison Report.ipynb**
-3. **Process_Flow_Document.pdf**
-
-This sequence provides the complete implementation first, followed by detailed analysis, and finally the overall workflow documentation.
